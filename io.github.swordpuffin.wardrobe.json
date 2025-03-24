@@ -10,7 +10,7 @@
         "--socket=fallback-x11",
         "--socket=wayland",
         "--device=dri",
-	    "--filesystem=home"
+	"--filesystem=home"
     ],
     "cleanup" : [
         "/include",
@@ -32,7 +32,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/SwordPuffin/Wardrobe.git",
-                    "tag" : "v1.0.1"
+                    "tag" : "v1.0.2"
                 }
             ]
         }
